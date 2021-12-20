@@ -1,5 +1,6 @@
 Brady Wales' Term Project v1.0
-#####################################################################################################
+####################################################################################
+
 PROPOSAL:
 
 Title: Zomb112
@@ -32,7 +33,7 @@ Different modes for menu screen and gameplay
 Reworked rendering and collisions
 Working pathfinding, gameplay elements such as player upgrades, audio
 
-#####################################################################################################
+####################################################################################
 README:
 
 DESCRIPTION:
